@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ac44af3b7a43f63a017a4408497c0000",
+    "firstName": "Athira",
+    "lastName": "S",
+    "email": "athira.s@allianz.com",
+    "userType": "Admin",
+    "grade": 5,
+    "questionsPosted": 0,
+    "questionsAnswered": 0,
+    "verifiedAnswers": 0,
+    "recognitions": [],
+    "totalPoints": 60,
+    "level":4
+  },
+  {
+    "id": "ac44af3b7a43eecf017a43eefdbb0000",
+    "firstName": "Amjith",
+    "lastName": "K",
+    "email": "amjith.kayalpurathuchira@allianz.com",
+    "userType": "Admin",
+    "grade": 3,
+    "questionsPosted": 0,
+    "questionsAnswered": 0,
+    "verifiedAnswers": 0,
+    "recognitions": [],
+    "totalPoints": 100,
+    "level":5
+  }
+]

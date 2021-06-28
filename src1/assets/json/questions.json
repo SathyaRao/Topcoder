@@ -1,0 +1,58 @@
+[
+      {
+        "id": "ac44af3b7a474db9017a478c91710006",
+        "questionTitle": " how to make a read only class in java",
+        "technology": {
+          "id": "ac44af3b7a4741ea017a474231700000",
+          "name": "JAVA",
+          "answeredQuestions": 0,
+          "unansweredQuestions": 2
+        },
+        "postedBy": "ac44af3b7a43f63a017a4408497c0000",
+        "postedDate": "2021-06-26T09:00:32.000+00:00",
+        "status": "OPEN",
+        "answers": []
+      },
+      {
+        "id": "ac44af3b7a474db9017a47878ae50005",
+        "questionTitle": " How to use the stream API to aggregate property based on int value",
+        "technology": {
+          "id": "ac44af3b7a4741ea017a474231700000",
+          "name": "JAVA",
+          "answeredQuestions": 0,
+          "unansweredQuestions": 2
+        },
+        "postedBy": "ac44af3b7a43f63a017a4408497c0000",
+        "postedDate": "2021-06-26T08:55:03.000+00:00",
+        "status": "OPEN",
+        "answers": []
+      },
+      {
+        "id": "ac44af3b7a47c462017a47cba8d80001",
+        "questionTitle": " How to deploy the application in Azure App service",
+        "technology": {
+          "id": "ac44af3b7a474db9017a474f0f430001",
+          "name": "Azure",
+          "answeredQuestions": 0,
+          "unansweredQuestions": 2
+        },
+        "postedBy": "ac44af3b7a47c462017a47c772980000",
+        "postedDate": "2021-06-26T10:09:27.000+00:00",
+        "status": "OPEN",
+        "answers": []
+      },
+      {
+        "id": "ac44af3b7a47c462017a47ce3ebe0002",
+        "questionTitle": " How to scale Azure App service",
+        "technology": {
+          "id": "ac44af3b7a474db9017a474f0f430001",
+          "name": "Azure",
+          "answeredQuestions": 0,
+          "unansweredQuestions": 2
+        },
+        "postedBy": "ac44af3b7a47c462017a47c772980000",
+        "postedDate": "2021-06-26T10:12:17.000+00:00",
+        "status": "OPEN",
+        "answers": []
+      }
+    ]
