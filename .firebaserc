@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "top-coder-7bc99"
+  },
+  "targets": {
+    "top-coder-7bc99": {
+      "hosting": {
+        "material-dashboard-angular": [
+          "top-coder-7bc99"
+        ]
+      }
+    }
+  }
+}
